@@ -1,0 +1,41 @@
+html,body {
+}
+
+header {
+	border-style: solid;
+	height: 150px;
+}
+
+nav {
+	border-style: solid;
+	height: 40px;
+}
+
+a {
+	height: 100%;
+	width: 50px;
+	padding-top: 10px;
+}
+
+aside {
+	float: right;
+	border-style: solid;
+	height: 50%;
+	width: 30%;
+
+}
+
+section{
+	border-style: solid;
+	height: 25%;
+	width: 69%;
+}
+
+article{
+
+}
+
+footer {
+	border-style: solid;
+	height: 50px;
+}
